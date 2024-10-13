@@ -5,6 +5,7 @@ import Hero from "./components/Hero"
 import NavBar from "./components/NavBar"
 import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
