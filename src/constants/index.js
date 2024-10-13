@@ -65,6 +65,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "16 Aman avenue , Majitha road ,ASR",
-  phoneNo: "+91 628310422 ",
+  phoneNo: "+91 6283104223 ",
   email: "amritpal15k@gmail.com",
 };
