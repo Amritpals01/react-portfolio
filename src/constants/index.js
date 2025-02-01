@@ -64,7 +64,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "10813 85A Avenue , Vancouver,CANADA",
+  address: "10813 85A Ave, Vancouver, CANADA🇨🇦",
   phoneNo: "+1 2365014114 ",
   email: "amritpal15k@gmail.com",
 };
