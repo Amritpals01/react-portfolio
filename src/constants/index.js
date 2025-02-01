@@ -64,7 +64,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "16 Aman avenue , Majitha road ,ASR",
-  phoneNo: "+91 6283104223 ",
+  address: "10813 85A Avenue , Vancouver,CANADA",
+  phoneNo: "+1 2365014114 ",
   email: "amritpal15k@gmail.com",
 };
